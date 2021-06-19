@@ -10,14 +10,12 @@
 
 <br>
 
-<p align="center">
-  [![LinkedIn Badge](https://img.shields.io/badge/-Robert%20Muresan-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/robert-muresan/)](https://www.linkedin.com/in/robert-muresan/)
-  
-  [![Gmail Badge](https://img.shields.io/badge/-robert.victor.muresan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robert.victor.muresan@gmail.com&style=for-the-badge)](mailto:robert.victor.muresan@gmail.com)
-  
-  [![Website Badge](https://img.shields.io/badge/Website-rmuresan.com-green?logo=Google%20Chrome&style=for-the-badge)](https://rmuresan.com)
-  
-<p/>
+<p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/robert-muresan/"><img src="https://img.shields.io/badge/-Robert Muresan-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/robert-muresan/" alt="Linkedin"></a>
+ 
+  </p>
+</p>
 
 
 ## 🛠 &nbsp;Tech Stack
