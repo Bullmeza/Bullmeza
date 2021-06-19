@@ -18,8 +18,6 @@
 - 🎓 &nbsp; Waterloo Computer Science, Class of 26'
 - 💼 &nbsp; Learning about Mobile Development at Shopify
 
-<br>
-
 ## 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
