@@ -12,9 +12,9 @@
 
 <p>
   <p align="center">
-    <a href="https://www.linkedin.com/in/robert-muresan/"><img src="https://img.shields.io/badge/-Robert Muresan-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/robert-muresan/" alt="Linkedin"></a>
-    <a href="https://z.rishi.cx/ls"><img src="https://img.shields.io/badge/-robert.victor.muresan@gmail.com-ff66ce?style=for-the-badge&amp;logoColor=white&logo=Gmail&link=https://z.rishi.cx/ls" alt="Links"></a>
-    <a href="https://rmuresan.com/"><img src="https://img.shields.io/badge/-rmuresan.com-ff66ce?style=for-the-badge&amp;logoColor=white&amp;logo=Google &nbsp;Chrome&amp;link=https://rmuresan.com/" alt="Website"></a>
+    <a href="https://www.linkedin.com/in/robert-muresan/"><img src="https://img.shields.io/badge/-Robert Muresan-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robert-muresan/" alt="Linkedin"></a>
+    <a href="mailto:robert.victor.muresan@gmail.com"><img src="https://img.shields.io/badge/-robert.victor.muresan@gmail.com-DB4437?style=for-the-badge&logoColor=white&logo=Gmail&link=mailto:robert.victor.muresan@gmail.com" alt="Links"></a>
+    <a href="https://rmuresan.com/"><img src="https://img.shields.io/badge/-rmuresan.com-ff66ce?style=for-the-badge&logoColor=white&logo=Google Chrome&link=https://rmuresan.com/" alt="Website"></a>
    
   </p>
 </p>
