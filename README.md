@@ -1,6 +1,17 @@
 <h3> Hey there👋! I'm Robert Muresan.</h2>
 <h2> Currently working as a Mobile Developer Intern at Shopify</h2>
 
+<img src="https://instagram.fyyz1-1.fna.fbcdn.net/v/t51.2885-15/e35/66444273_2213686155609519_1704688932610605397_n.jpg?tp=1&_nc_ht=instagram.fyyz1-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=HEvXVswLkz8AX9JGkbh&edm=AABBvjUBAAAA&ccb=7-4&oh=226b22bc2ae410b49797f91efa97df01&oe=60D4896E&_nc_sid=83d603"></img>
+<br>
+
+<p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/robert-muresan/"><img src="https://img.shields.io/badge/-Robert Muresan-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robert-muresan/" alt="Linkedin"></a>
+    <a href="mailto:robert.victor.muresan@gmail.com"><img src="https://img.shields.io/badge/-robert.victor.muresan@gmail.com-DB4437?style=for-the-badge&logoColor=white&logo=Gmail&link=mailto:robert.victor.muresan@gmail.com" alt="Links"></a>
+    <a href="https://rmuresan.com/"><img src="https://img.shields.io/badge/-rmuresan.com-00FF00?style=for-the-badge&logoColor=white&logo=GoogleChrome&link=https://rmuresan.com/" alt="Website"></a> 
+  </p>
+</p>
+
 ## 👨🏻‍💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -10,15 +21,6 @@
 
 <br>
 
-<p>
-  <img src="https://instagram.fyyz1-1.fna.fbcdn.net/v/t51.2885-15/e35/66444273_2213686155609519_1704688932610605397_n.jpg?tp=1&_nc_ht=instagram.fyyz1-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=HEvXVswLkz8AX9JGkbh&edm=AABBvjUBAAAA&ccb=7-4&oh=226b22bc2ae410b49797f91efa97df01&oe=60D4896E&_nc_sid=83d603"
-  <p align="center">
-    <a href="https://www.linkedin.com/in/robert-muresan/"><img src="https://img.shields.io/badge/-Robert Muresan-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robert-muresan/" alt="Linkedin"></a>
-    <a href="mailto:robert.victor.muresan@gmail.com"><img src="https://img.shields.io/badge/-robert.victor.muresan@gmail.com-DB4437?style=for-the-badge&logoColor=white&logo=Gmail&link=mailto:robert.victor.muresan@gmail.com" alt="Links"></a>
-    <a href="https://rmuresan.com/"><img src="https://img.shields.io/badge/-rmuresan.com-00FF00?style=for-the-badge&logoColor=white&logo=GoogleChrome&link=https://rmuresan.com/" alt="Website"></a>
-   
-  </p>
-</p>
 
 
 ## 🛠 &nbsp;Tech Stack
