@@ -43,8 +43,8 @@
 
 <p>
   <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bullmeza&theme=buefy&layout=compact&langs_count=6">
-      <img src="https://github-readme-stats.vercel.app/api?username=Bullmeza&hide=contribs,issues&show_icons=true&line_height=35">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bullmeza&theme=buefy&layout=compact&langs_count=4">
+      <img src="https://github-readme-stats.vercel.app/api?username=Bullmeza&hide=contribs,issues&show_icons=true&line_height=20">
     </p>
 </p>
 
