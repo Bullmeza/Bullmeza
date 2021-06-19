@@ -39,16 +39,12 @@
   ![ReactNative](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   
 
-<br/>
-
 ## 📈 Stats
 
 <p>
   <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh16&theme=buefy&layout=compact&langs_count=5">
-<!--     ![Prathmesh's github stats](https://github-readme-stats.vercel.app/api?username=prathmesh16&hide=["issues"]&show_icons=true&line_height=30)
-
-      ![Prathmesh's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh16&theme=buefy&layout=compact&langs_count=10) -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh16&theme=buefy&layout=compact&langs_count=10">
+      <img src="https://github-readme-stats.vercel.app/api?username=prathmesh16&hide=[%22Total%20Issues%22]&show_icons=true&line_height=30">
     </p>
 </p>
 
