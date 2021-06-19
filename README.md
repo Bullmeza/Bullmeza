@@ -45,7 +45,7 @@
 
 <p>
   <p align="center">
-      <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh16&theme=buefy&layout=compact&langs_count=5">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh16&theme=buefy&layout=compact&langs_count=5">
 <!--     ![Prathmesh's github stats](https://github-readme-stats.vercel.app/api?username=prathmesh16&hide=["issues"]&show_icons=true&line_height=30)
 
       ![Prathmesh's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh16&theme=buefy&layout=compact&langs_count=10) -->
