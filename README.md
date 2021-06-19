@@ -1,5 +1,5 @@
 <h3> Hey there👋! I'm Robert Muresan.</h3>
-<h5> Currently working as a Mobile Developer Intern at Shopify</h5>
+<h5 margin="0"> Currently working as a Mobile Developer Intern at Shopify</h5>
 
 <img src="https://instagram.fyyz1-1.fna.fbcdn.net/v/t51.2885-15/e35/66444273_2213686155609519_1704688932610605397_n.jpg?tp=1&_nc_ht=instagram.fyyz1-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=HEvXVswLkz8AX9JGkbh&edm=AABBvjUBAAAA&ccb=7-4&oh=226b22bc2ae410b49797f91efa97df01&oe=60D4896E&_nc_sid=83d603">
 
