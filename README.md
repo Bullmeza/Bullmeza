@@ -1,7 +1,7 @@
-<h1> Hey there👋! I'm Robert Muresan.</h1>
-<h2> Currently working as a Mobile Developer Intern at Shopify</h2>
+<h2> Hey there👋! I'm Robert Muresan.</h2>
+<h4> Currently working as a Mobile Developer Intern at Shopify</h4>
 
-<img src="https://instagram.fyyz1-1.fna.fbcdn.net/v/t51.2885-15/e35/66444273_2213686155609519_1704688932610605397_n.jpg?tp=1&_nc_ht=instagram.fyyz1-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=HEvXVswLkz8AX9JGkbh&edm=AABBvjUBAAAA&ccb=7-4&oh=226b22bc2ae410b49797f91efa97df01&oe=60D4896E&_nc_sid=83d603"></img>
+<img src="https://instagram.fyyz1-1.fna.fbcdn.net/v/t51.2885-15/e35/66444273_2213686155609519_1704688932610605397_n.jpg?tp=1&_nc_ht=instagram.fyyz1-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=HEvXVswLkz8AX9JGkbh&edm=AABBvjUBAAAA&ccb=7-4&oh=226b22bc2ae410b49797f91efa97df01&oe=60D4896E&_nc_sid=83d603">
 <br>
 
 <p>
@@ -16,7 +16,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and attending hackathons
 - 🎓 &nbsp; Waterloo Computer Science, Class of 26'
-- 💼 &nbsp; Learning about Mobile Development at Shopify
+- 💼 &nbsp; Learning about Mobile Development
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -45,9 +45,10 @@
 
 <p>
   <p align="center">
-    ![Prathmesh's github stats](https://github-readme-stats.vercel.app/api?username=prathmesh16&hide=["issues"]&show_icons=true&line_height=30)
+      <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh16&theme=buefy&layout=compact&langs_count=5">
+<!--     ![Prathmesh's github stats](https://github-readme-stats.vercel.app/api?username=prathmesh16&hide=["issues"]&show_icons=true&line_height=30)
 
-![Prathmesh's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh16&theme=buefy&layout=compact&langs_count=10)
+      ![Prathmesh's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh16&theme=buefy&layout=compact&langs_count=10) -->
     </p>
 </p>
 
