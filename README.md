@@ -1,5 +1,4 @@
 <h2> Hey there👋! I'm Robert Muresan.</h2>
-<h5> Currently working as a Mobile Developer Intern at Shopify</h5>
 
 ![66444273_2213686155609519_1704688932610605397_n](https://user-images.githubusercontent.com/56707028/125880240-fc3ec31a-f260-4c98-8b43-a3ae932e7a47.jpg)
 
