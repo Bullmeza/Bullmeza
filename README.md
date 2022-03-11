@@ -14,9 +14,9 @@
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and attending hackathons
+- 🙌 &nbsp; Javascript addict
+- 💸 &nbsp; Learning about web3 and Defi
 - 🎓 &nbsp; Waterloo Computer Science, Class of 26'
-- 💼 &nbsp; Learning about Mobile Development
 
 ## 🛠 &nbsp;Tech Stack
 
