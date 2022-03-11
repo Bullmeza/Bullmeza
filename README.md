@@ -43,7 +43,7 @@
 
 <p>
   <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-muresan&theme=buefy&layout=compact&langs_count=4">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-muresan&theme=buefy&layout=compact&langs_count=8">
       <img src="https://github-readme-stats.vercel.app/api?username=r-muresan&hide=contribs,issues&show_icons=true&line_height=25">
     </p>
 </p>
