@@ -21,20 +21,23 @@
 ## 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Soldity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Racket](https://img.shields.io/badge/-Racket-333333?style=flat&logo=racket)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=bootstrap&logoColor=1572B6)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 - 📱 &nbsp;
   ![ReactNative](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   
@@ -43,7 +46,7 @@
 
 <p>
   <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-muresan&theme=buefy&layout=compact&langs_count=8">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-muresan&theme=buefy&layout=compact&langs_count=6">
       <img src="https://github-readme-stats.vercel.app/api?username=r-muresan&hide=contribs,issues&show_icons=true&line_height=25">
     </p>
 </p>
